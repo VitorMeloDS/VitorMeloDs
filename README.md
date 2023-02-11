@@ -1,6 +1,6 @@
 # Olá! eu sou o Vitor Melo da Silva 😀
 
-- 🌱 Estou estudando Laravel, Bootstrap e SQL.
+- 🌱 Estou estudando NodeJs, TypeScript e NoSQL.
 - 📫 Contate-me no E-mail: vmsvitor20@gmail.com
 
 
