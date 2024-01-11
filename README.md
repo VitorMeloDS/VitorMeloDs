@@ -1,8 +1,5 @@
 # Olá! eu sou o Vitor Melo da Silva 😀
 
-- 🌱 Estou estudando NodeJs, TypeScript e NoSQL.
-- 📫 Contate-me no E-mail: vmsvitor20@gmail.com
-
 
 <div align="center">
   <a href="https://github.com/VitorMeloDS">
