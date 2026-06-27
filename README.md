@@ -68,7 +68,7 @@ Sou um **Desenvolvedor Full Stack** e **Tech Lead** apaixonado por tecnologia e 
   <a href="mailto:vmsvitor20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vitor-melo-da-silva-4949b6228/">
+  <a href="https://www.linkedin.com/in/vitor-melo-ds">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/VitorMeloDS">
